@@ -24,9 +24,8 @@
          <!--Cabecera-->
     <header>
 		<div class="wrapp">
-			<div class="logo">
-			</div>
-            <h1 class=titulo>Registro de Empleados-Veterinaria Castillo</h1>
+			
+            <h1>Registro de Empleados-Veterinaria Castillo</h1>
 		</div>
 	</header>	
      <!--Cabecera-->
